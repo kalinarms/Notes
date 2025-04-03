@@ -162,4 +162,4 @@
 	- then afterwords, the $H^+$ will move through a ATP syntase (protien) following its conc gradient via passive transport
 	- its bassicly osmosis, but instead of water its $H^+$
 	- bassicly a build up of $H^+$ ions on one side via active transport, so during ATP synthesehsis, it can build atp with passive transport 
-- 
+- helloheello is this thing on 
